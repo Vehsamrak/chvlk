@@ -1,2 +1,2 @@
-import theme from "./build/src/themes";
+import theme from "./lib/src/themes";
 export default theme;

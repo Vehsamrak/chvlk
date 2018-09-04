@@ -1,2 +1,2 @@
-import Button from "./build/src/components/Button";
+import Button from "./lib/src/components/Button";
 export default Button;

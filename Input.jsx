@@ -1,2 +1,2 @@
-import Input from "./build/src/components/Input";
+import Input from "./lib/src/components/Input";
 export default Input;

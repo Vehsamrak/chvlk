@@ -1,2 +1,2 @@
-import %COMPONENT% from "./build/src/components/%COMPONENT%";
+import %COMPONENT% from "./lib/src/components/%COMPONENT%";
 export default %COMPONENT%;

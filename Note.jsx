@@ -1,2 +1,2 @@
-import Note from "./build/src/components/Note";
+import Note from "./lib/src/components/Note";
 export default Note;
