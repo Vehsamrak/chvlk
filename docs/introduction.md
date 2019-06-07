@@ -7,4 +7,4 @@ Chuvelk [tʃuvèlk] – yet another ui-kit written with typescript and react
 [![license](https://img.shields.io/github/license/iamolegga/chvlk.svg)](https://github.com/iamolegga/chvlk)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![Libraries.io for GitHub](https://img.shields.io/librariesio/github/iamolegga/chvlk.svg)](https://libraries.io/github/iamolegga/chvlk)
-[![GitHub forks](https://img.shields.io/github/forks/iamolegga/chvlk.svg?style=social&label=Github forks)](https://github.com/iamolegga/chvlk)
+[![GitHub forks](https://img.shields.io/github/forks/iamolegga/chvlk.svg?style=social&label=Github+Forks)](https://github.com/iamolegga/chvlk)
